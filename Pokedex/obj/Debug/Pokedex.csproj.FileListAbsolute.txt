@@ -1,0 +1,14 @@
+C:\Users\caran\Desktop\repos\Pokedex\Pokedex\bin\Debug\Pokedex.exe.config
+C:\Users\caran\Desktop\repos\Pokedex\Pokedex\bin\Debug\Pokedex.exe
+C:\Users\caran\Desktop\repos\Pokedex\Pokedex\bin\Debug\Pokedex.pdb
+C:\Users\caran\Desktop\repos\Pokedex\Pokedex\bin\Debug\Newtonsoft.Json.dll
+C:\Users\caran\Desktop\repos\Pokedex\Pokedex\bin\Debug\Newtonsoft.Json.xml
+C:\Users\caran\Desktop\repos\Pokedex\Pokedex\obj\Debug\Pokedex.csproj.AssemblyReference.cache
+C:\Users\caran\Desktop\repos\Pokedex\Pokedex\obj\Debug\Pokedex.csproj.SuggestedBindingRedirects.cache
+C:\Users\caran\Desktop\repos\Pokedex\Pokedex\obj\Debug\Pokedex.Properties.Resources.resources
+C:\Users\caran\Desktop\repos\Pokedex\Pokedex\obj\Debug\Pokedex.csproj.GenerateResource.cache
+C:\Users\caran\Desktop\repos\Pokedex\Pokedex\obj\Debug\Pokedex.csproj.CoreCompileInputs.cache
+C:\Users\caran\Desktop\repos\Pokedex\Pokedex\obj\Debug\Pokedex.csproj.CopyComplete
+C:\Users\caran\Desktop\repos\Pokedex\Pokedex\obj\Debug\Pokedex.exe
+C:\Users\caran\Desktop\repos\Pokedex\Pokedex\obj\Debug\Pokedex.pdb
+C:\Users\caran\Desktop\repos\Pokedex\Pokedex\obj\Debug\Pokedex.PokedexSearch.resources
