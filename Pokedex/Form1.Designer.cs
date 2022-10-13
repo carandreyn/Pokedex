@@ -550,7 +550,7 @@
             this.Controls.Add(this.TBPokemon);
             this.Controls.Add(this.PokemonPic);
             this.Name = "PokedexSearch";
-            this.Text = "Form1";
+            this.Text = "Pokedex";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.PokemonPic)).EndInit();
             this.ResumeLayout(false);
