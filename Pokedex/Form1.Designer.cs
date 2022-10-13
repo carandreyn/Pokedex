@@ -171,7 +171,7 @@
             // HPProgressBar
             // 
             this.HPProgressBar.Location = new System.Drawing.Point(562, 58);
-            this.HPProgressBar.Maximum = 200;
+            this.HPProgressBar.Maximum = 255;
             this.HPProgressBar.Name = "HPProgressBar";
             this.HPProgressBar.Size = new System.Drawing.Size(172, 24);
             this.HPProgressBar.Step = 1;
@@ -222,7 +222,7 @@
             // AttackProgressBar
             // 
             this.AttackProgressBar.Location = new System.Drawing.Point(562, 106);
-            this.AttackProgressBar.Maximum = 200;
+            this.AttackProgressBar.Maximum = 190;
             this.AttackProgressBar.Name = "AttackProgressBar";
             this.AttackProgressBar.Size = new System.Drawing.Size(172, 24);
             this.AttackProgressBar.Step = 1;
@@ -242,7 +242,7 @@
             // DefenseProgressBar
             // 
             this.DefenseProgressBar.Location = new System.Drawing.Point(562, 158);
-            this.DefenseProgressBar.Maximum = 200;
+            this.DefenseProgressBar.Maximum = 230;
             this.DefenseProgressBar.Name = "DefenseProgressBar";
             this.DefenseProgressBar.Size = new System.Drawing.Size(172, 24);
             this.DefenseProgressBar.Step = 1;
